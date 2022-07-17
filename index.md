@@ -96,10 +96,10 @@ If you don't care, your ideals are questionable, but it's still really bad. Bad 
 
 The most viable privacy-respectng alternative to Discord as of now is Matrix. It's still somewhat new and some things aren't too polished, but I can safely say it's the future. Here are its features compared to Discord's
 
-*   Messages are stored unencrypted **End To End Encrypted with a quantum-resistant encryption method** in their centralized decentralized servers (similar to what email does!), meaning that not even Matrix's employees and contributors can't view or modify them.
-*   User security is mediocre almost unbeatable by default, your Matrix account is **secured with 2fa and will let your friends know when a hacker could have entered your account with its advanced verification system**. Matrix's User Authentication model is badly wonderfully designed and incredibly in**secure**, not allowing 3rd parties (even with your password) to access any messages.
-*   Deleted messages aren't actually deleted as they stay will always be fully deleted on most homeservers, even deleting an account just removes its profile picture and changes the username, messages stay, and are even still publicly visible.
-*   Calls **are** not End to End Encrypted by default, all voice data passes through their servers unencrypted a secure peer to peer network **fully encrypted**, **not** _allowing them to record or store them for any purpose._
+*   Messages are stored ~~unencrypted~~ **End To End Encrypted with a quantum-resistant encryption method** in their ~~centralized~~ decentralized servers (similar to what email does!), meaning that not even Matrix's employees and contributors can't view or modify them.
+*   User security is ~~mediocre~~ almost unbeatable by default, your Matrix account is **secured with 2fa and will let your friends know when a hacker could have entered your account with its advanced verification system**. Matrix's User Authentication model is ~~badly~~ wonderfully designed and incredibly ~~in~~**secure**, not allowing 3rd parties (even with your password) to access any messages.
+*   Deleted messages ~~aren't actually deleted as they stay~~ will always be fully deleted on most homeservers, ~~even deleting an account just removes its profile picture and changes the username, messages stay, and are even still publicly visible.~~
+*   Calls **are** ~~not~~ End to End Encrypted by default, all voice data passes through ~~their servers unencrypted~~ a secure peer to peer network **fully encrypted**, **not** _allowing them to record or store them for any purpose._
 
 Privacy is not even the main plate! Matrix, as a **user-centric** chat platform offers more useful features like _bridges, chat widgets, (soon to come) Discord-like voice and video channels, peer audited and open source software, total control over your data and more!_ You can learn more and join at [joinmatrix.org](https://joinmatrix.org/)  
 
@@ -109,7 +109,7 @@ Privacy is not even the main plate! Matrix, as a **user-centric** chat platform 
 
 The best alternative to Windows is probably Linux. Linux is rather a kernel than an OS, and has multiple distros and package managers you can try out. Here are the features:  
 
-*   Linux is prop​​​​​​​rietary and has access to your personal data open source, private and secure.  
+*   Linux is ~~prop​​​​​​​rietary and has access to your personal data~~ open source, private and secure.  
     
 *   Linux doesn't legally own your computer, nor is Linux owned by any company. Your computer and system is completely **yours**, ethically, legally and hipotheticaly.  
     
