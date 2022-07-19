@@ -4,15 +4,14 @@
 
 Discord is one of the most popular instant messaging platforms and Windows is the monopoly of desktop computing. _This is a very bad thing_, even if you can't see it at first glance.  
 
-In this article we will explain the things that Discord and Microsoft do to you, the user(s) and how it actually _does_ affects you (even if you don't think so at the moment). There will also be alternatives for you to use instead.
+In this article we will explain the things that Discord and Microsoft can and do to you, the user(s) and how it actually _does_ affect you (even if you don't think so at the moment). There will also be alternatives for you to use instead.
 
 Of course there are more evil companies and malware-like products out there which we may write about, but Discord and Windows are the most taunting ones as of now.
 
   
 
 ## **Discord**
-
-Discord is a company that doesn't care about its users, this is a fact as the services that they offer like Nitro aren't profitable as most of these services' features aren't even more expensive to run for free, **Discord is not profitable, they make money through other means other than Nitro**. And these means are perfectly expressed in their _clearly cryptic_ Terms of Service.
+Discord is a company that doesn't care about its users, this is a fact as the services that they offer like Nitro aren't even profitable, most of these services' features aren't even more expensive to run for free, **Discord is not profitable, they make money through other means other than Nitro**. And these means are perfectly expressed in their _clearly cryptic_ Terms of Service.
 
 But before we get into how they make money, let's analyze how the service works as a whole:  
 
