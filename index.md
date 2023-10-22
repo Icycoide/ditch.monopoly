@@ -1,52 +1,38 @@
-﻿# **Stop using Discord and Windows.**  
+# **Stop using Discord and Windows.**  
 
-(**Discord** to fight for your privacy, **Windows** to fight the monopoly)
+Discord is one of the most popular instant messaging platforms and Windows is the monopoly of desktop computing. Both being harmful for users' freedom and privacy. _This is a very bad thing_, even if you can't see it at first glance.  
 
-Discord is one of the most popular instant messaging platforms and Windows is the monopoly of desktop computing. _This is a very bad thing_, even if you can't see it at first glance.  
+We will explain the things that Discord and Microsoft can and do to you, the user(s) and how it actually _does_ affect you (even if you don't think so at the moment). There will also be alternatives for you to use instead.
 
-In this article we will explain the things that Discord and Microsoft can and do to you, the user(s) and how it actually _does_ affect you (even if you don't think so at the moment). There will also be alternatives for you to use instead.
-
-Of course there are more evil companies and malware-like products out there which we may write about, but Discord and Windows are the most taunting ones as of now.
-
-  
+Of course there are more evil companies and malware-like products out there, which we may write about, but Discord and Windows are the most taunting ones as of now.
 
 ## **Discord**
-Discord is a company that doesn't care about its users, this is a fact as the services that they offer like Nitro aren't even profitable, most of these services' features aren't even more expensive to run for free, **Discord is not profitable, they make money through other means other than Nitro**. And these means are perfectly expressed in their _clearly cryptic_ Terms of Service.
+Discord is a company that doesn't care about its users, this could even be considered a fact, as the services that they offer, such as Nitro, aren't even profitable. Most of these services' features aren't even more expensive to run for free, **Discord is not profitable, they make money through other means other than Nitro**. And these means are perfectly expressed in their _clearly cryptic_ Terms of Service.
 
-But before we get into how they make money, let's analyze how the service works as a whole:  
+But before we get into how they make money, let's analyze how the service works as a whole:
 
 *   Messages are stored unencrypted in their **centralized** servers, meaning that Discord's (possibly) underpaid employeers and hackers can access them almost like **normal plain text files** and do whatever they want with them, even publishing it on the internet, _this has happened before and will keep happening_.
-*   User security is mediocre by default, even with measures, your Discord account is **not secure**. Discord's User Authentication model is badly designed and incredibly insecure, [allowing unprivileged programs to gain total control over your account](https://blog.cyble.com/2022/06/01/hazard-token-grabber/) in some cases
+*   User security is mediocre by default, even with measures, your Discord account is **not secure**. Discord's User Authentication model is badly designed and incredibly insecure, even [allowing unprivileged programs to gain total control over your account](https://blog.cyble.com/2022/06/01/hazard-token-grabber/) in some cases
 *   Deleted messages aren't actually deleted as they stay, even deleting an account just removes its profile picture and changes the username, messages stay, and are even still publicly visible.
-*   Calls are not End to End Encrypted, all voice data passes through their servers unencrypted, _allowing them to record and store them for analytics purposes_, also unencrypted.
+*   Calls are not End to End Encrypted, all voice data passes through their servers unencrypted, _allowing them to record and store them for analytics purposes_, also unencrypted. They even state they may analyze said data.
 
-  
+After reading all of that, it should be enough for you to move away instantly, but in the rare case that you trust Discord and its employees as if they were your parents, we still haven't even got started on their ToS.
 
-After reading that it should be enough for you to move away instantly, but in the rare case that you trust Discord and its employees as if they were your parents, we still haven't even got started on their ToS.
-
-According to Discord's Terms of Service (and common sense), they make profit off of data processing and selling. As Discord states (cryptically), they have full access and rights to read and process any thing that goes into it (server info, profile info, interests, **even private messages!**)
+According to Discord's Terms of Service (and common sense), they make profit off of data processing and selling. As Discord states, they have full access and rights to read and process any thing that goes into it (server info, profile info, interests, **even private messages!**)
 
 > The Service provides communication channels such as forums, communities, or chat areas ("Communication Channels") designed to enable you to communicate with other Service users. The Company has no obligation to monitor these communication channels but it may do so in connection with providing the Service.  
-
-  
 
 Discord can and will keep any information that comes into it, including _deleted messages, programs you've opened in your computer while having the Discord desktop app, people you've taked to and more_.
 
 > We generally retain personal data for so long as it may be relevant to the purposes identified herein.  
 
-  
-
 Anything that goes through Discord is legally owned by Discord, if you just made a drawing and want to show it to your friends _Discord will own it and will have the rights to do anything it wishes with it, **even selling it**_.  
 
 > By uploading, distributing, transmitting or otherwise using Your Content with the Service, you grant to us a perpetual, nonexclusive, transferable, royalty-free, sublicensable, and worldwide license to use, host, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, and display Your Content in connection with operating and providing the Service.  
 
-  
-
 In case of Discord being sold or going bankrupt, it can and will sell user data to third parties, **including messages**.
 
 > In the event of a corporate sale, merger, reorganization, bankruptcy, dissolution or similar event, your information may be part of the transferred assets.  
-
-  
 
 Last but not least, _Discord is considered to be spyware as a whole_, not only the service, but also the apps. [Feel free to check out this article on it!](https://spyware.neocities.org/articles/discord.html)
 
